@@ -1,0 +1,24 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "nome": "caneta bic",
+      "preco": 5.77
+    },
+    {
+      "id": 2,
+      "nome": "Notebook",
+      "preco": 8000.99
+    },
+    {
+      "id": 3,
+      "nome": "celular",
+      "preco": 3505.77
+    },
+    {
+      "nome": "geladeira",
+      "preco": "2000.99",
+      "id": 4
+    }
+  ]
+}
